@@ -1,0 +1,464 @@
+[
+ {
+  "id": 1,
+  "title": "Lima Sila Pancasila",
+  "kicker": "BAB 01 · silaA 1—5",
+  "subtitle": "Mengenal lima nilai dasar Pancasila, makna masing-masing sila, serta hubungan antarsila sebagai satu kesatuan.",
+  "intro": "<p>Pancasila terdiri atas lima sila yang saling berkaitan. Setiap sila memiliki makna, fungsi, dan posisi dalam piramida nilai. Pelajari setiap sila lewat contoh, lalu latih diri dengan soal.</p>",
+  "sections": [
+   {
+    "id": "s1-1",
+    "number": "1.1",
+    "title": "sila 1 — Ketuhanan Yang Maha Esa",
+    "lead": "<p>Sila pertama menjamin kebebasan beragama dan berkekeyakinan. Negara menjamin setiap warga beribadah menurut agamanya.</p>",
+    "details": [
+     {
+      "title": "Poin utama",
+      "html": "<p>Pancasila berlandaskan kepercayaan terhadap Tuhan Yang Maha Esa. Nilai ini menjadi <em>dasar</em> negara, ditegaskan dalam <strong>Pembukaan</strong> <strong>UUD 1945</strong> <strong>alinea</strong> pertama.</p>\n<p>Aplikasi: kebebasan beribadah, perlindungan terhadap tempat ibadah, dan pelajaran agama di sekolah.</p>"
+     }
+    ]
+   },
+   {
+    "id": "s1-2",
+    "number": "1.2",
+    "title": "sila 2 — Kemanusiaan yang Adil dan Beradab",
+    "lead": "<p>Menghargai harkat dan martabat manusia sebagai makhluk Tuhan.</p>",
+    "details": [
+     {
+      "title": "Poin utama",
+      "html": "<p>Sila kedua menjunjung tinggi hak dan kewajiban manusia. Keadilan berarti tidak diskriminatif, beradab berarti bertindak sesuai nilai budi pekerti.</p>\n<p>Aplikasi: perlakuan adil di sekolah, anti-bullying, penghargaan terhadap perbedaan.</p>"
+     }
+    ]
+   },
+   {
+    "id": "s1-3",
+    "number": "1.3",
+    "title": "sila 3 — Persatuan Indonesia",
+    "lead": "<p>Menjaga keutuhan bangsa Indonesia, <strong>Bhinneka Tunggal Ika</strong>.</p>",
+    "details": [
+     {
+      "title": "Poin utama",
+      "html": "<p>Sila ketiga mengutamakan persatuan di atas perbedaan. Semboyan <em>Bhinneka Tunggal Ika</em> berarti beragam, tetapi satu.</p>\n<p>Aplikasi: toleransi suku, bahasa, dan agama; menjaga nama baik bangsa.</p>"
+     }
+    ]
+   },
+   {
+    "id": "s1-4",
+    "number": "1.4",
+    "title": "sila 4 — Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan",
+    "lead": "<p>Musyawarah untuk mencapai <strong>mufakat</strong>, diliputi semangat <strong>kekeluargaan</strong>.</p>",
+    "details": [
+     {
+      "title": "Poin utama",
+      "html": "<p>Sila keempat adalah inti demokrasi Pancasila: keputusan diambil lewat <strong>musyawarah</strong> <strong>mufakat</strong>, bukan memaksakan pendapat.</p>\n<p>Aplikasi: <strong>musyawarah</strong> kelas, <strong>musyawarah</strong> RT, <strong>musyawarah</strong> keluarga.</p>"
+     }
+    ]
+   },
+   {
+    "id": "s1-5",
+    "number": "1.5",
+    "title": "sila 5 — Keadilan Sosial bagi Seluruh Rakyat Indonesia",
+    "lead": "<p>Mewujudkan <strong>kesejahteraan</strong> yang merata bagi seluruh rakyat.</p>",
+    "details": [
+     {
+      "title": "Poin utama",
+      "html": "<p>Sila kelima adalah tujuan negara: keadilan sosial. Aplikasi: bantuan untuk warga miskin, kesempatan pendidikan yang sama, lapangan kerja.</p>\n<p>Pancasila menyebut keadilan sosial sebagai tujuan最终, sementara empat sila sebelumnya adalah alat mencapainya.</p>"
+     }
+    ]
+   },
+   {
+    "id": "s1-6",
+    "number": "1.6",
+    "title": "Piramida & Antarsila",
+    "lead": "<p>Kelima sila membentuk piramida: sila 1 sebagai dasar, sila 5 sebagai puncak tujuan.</p>",
+    "details": [
+     {
+      "title": "Struktur piramida",
+      "html": "<p>sila 1 = dasar (ketuhanan), sila 2 = inti (kemanusiaan), sila 3 = prasyarat (persatuan), sila 4 = sarana (<strong>musyawarah</strong>), sila 5 = tujuan (keadilan sosial).</p>\n<p>Antarsila saling menopang: tanpa ketuhanan, kemanusiaan kehilangan landasan moral; tanpa <strong>musyawarah</strong>, persatuan mudah pecah.</p>"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "title": "Penerapan & Konflik Nilai",
+  "kicker": "BAB 02 · SEHARI-HARI",
+  "subtitle": "Bagaimana Pancasila diterapkan dalam kehidupan sehari-hari dan bagaimana menyikapi konflik nilai dengan musyawarah.",
+  "intro": "<p>Pancasila bukan sekadar teori. Nilai-nilainya diterapkan di keluarga, sekolah, dan masyarakat. Bila terjadi konflik nilai, sikap utamanya adalah <strong>musyawarah</strong> untuk <strong>mufakat</strong>.</p>",
+  "sections": [
+   {
+    "id": "s2-1",
+    "number": "2.1",
+    "title": "Penerapan di Keluarga & Masyarakat",
+    "lead": "<p>Penerapan Pancasila dimulai dari tindakan kecil sehari-hari.</p>",
+    "details": [
+     {
+      "title": "Contoh tindakan",
+      "html": "<p>Keluarga: beribadah bersama, saling menghargai, <strong>musyawarah</strong> menentukan keputusan rumah tangga. Masyarakat: gotong royong, toleransi antarwarga, kerja bakti.</p>"
+     }
+    ]
+   },
+   {
+    "id": "s2-2",
+    "number": "2.2",
+    "title": "Konflik Nilai & Musyawarah",
+    "lead": "<p>Konflik nilai diselesaikan lewat <strong>musyawarah</strong>, bukan pemaksaan.</p>",
+    "details": [
+     {
+      "title": "Langkah musyawarah",
+      "html": "<p>1) identifikasi masalah, 2) setiap pihak menyampaikan pendapat, 3) mencari titik temu, 4) mengambil keputusan bersama. Keputusan <strong>musyawarah</strong> diliputi semangat <strong>kekeluargaan</strong> (sila 4).</p>"
+     }
+    ]
+   },
+   {
+    "id": "s2-3",
+    "number": "2.3",
+    "title": "Pancasila di Sekolah",
+    "lead": "<p>Sekolah menerapkan Pancasila melalui upacara, pelajaran, dan budaya sekolah.</p>",
+    "details": [
+     {
+      "title": "Budaya sekolah",
+      "html": "<p>Upacara bendera setiap Senin, pelajaran PJOK/Pendidikan Pancasila, kedisiplinan, tidak menang sendiri, menghargai guru dan teman, serta figur kepala sekolah sebagai teladan.</p>"
+     }
+    ]
+   },
+   {
+    "id": "s2-4",
+    "number": "2.4",
+    "title": "Tindakan Sesuai Sila",
+    "lead": "<p>Setiap tindakan nyata dapat dipetakan ke sila yang menjiwainya.</p>",
+    "details": [
+     {
+      "title": "Pemetaan tindakan",
+      "html": "<p>Membantu tetangga yang sakit → sila 2 (kemanusiaan) & 5 (keadilan). Wajib patuh pada peraturan sekolah → sila 4 (kerakyatan). Menjaga kebersihan lingkungan → sila 3 (persatuan) dan 5.</p>"
+     }
+    ]
+   },
+   {
+    "id": "s2-5",
+    "number": "2.5",
+    "title": "Keadilan Sosial",
+    "lead": "<p>Keadilan sosial menyangkut <strong>pemerataan</strong> <strong>kesejahteraan</strong>.</p>",
+    "details": [
+     {
+      "title": "Dimensi keadilan",
+      "html": "<p>Keadilan sosial mencakup keadilan ekonomi (<strong>pemerataan</strong>), keadilan politik (hak suara), dan keadilan sosial-budaya (penghargaan terhadap minoritas). Program seperti beasiswa dan bantuan sosial adalah wujud nyatanya.</p>"
+     }
+    ]
+   },
+   {
+    "id": "s2-6",
+    "number": "2.6",
+    "title": "Kebijakan Publik yang Berlandaskan Pancasila",
+    "lead": "<p>Kebijakan publik harus mencerminkan nilai-nilai Pancasila.</p>",
+    "details": [
+     {
+      "title": "Ciri kebijakan",
+      "html": "<p>Kebijakan publik (misal: program bantuan, tata kota, kurikulum) dinilai sesuai Pancasila bila menguntungkan seluruh rakyat, adil, tidak diskriminatif, dan mendukung persatuan.</p>"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "title": "Pancasila sebagai Ideologi Negara",
+  "kicker": "BAB 03 · IDEOLOGI",
+  "subtitle": "Pancasila adalah ideologi negara yang terbuka: nilai dasarnya tetap, penjabarannya berkembang sesuai zaman.",
+  "intro": "<p>Ideologi negara adalah sistem gagasan yang mendasari negara. Pancasila adalah <strong>ideologi terbuka</strong> — tidak kaku, tetapi nilai dasarnya tetap terjaga.</p>",
+  "sections": [
+   {
+    "id": "s3-1",
+    "number": "3.1",
+    "title": "Ideologi Negara",
+    "lead": "<p>Pancasila menjadi dasar dan tujuan negara Republik Indonesia.</p>",
+    "details": [
+     {
+      "title": "Kedudukan",
+      "html": "<p>Pancasila adalah <strong>ideologi negara</strong>, falsafah negara, dan dasar negara. Dalam <strong>Pembukaan</strong> <strong>UUD 1945</strong>, Pancasila menjadi dasar segala dasar negara (<strong>alinea</strong> 4: <strong>sumber segala sumber hukum</strong>).</p>"
+     }
+    ]
+   },
+   {
+    "id": "s3-2",
+    "number": "3.2",
+    "title": "Ideologi Terbuka",
+    "lead": "<p>Pancasila disebut <strong>ideologi terbuka</strong> karena mampu menyesuaikan diri dengan perkembangan.</p>",
+    "details": [
+     {
+      "title": "Arti keterbukaan",
+      "html": "<p>Yang tetap: nilai dasar lima sila. Yang berkembang: penjabaran dan pelaksanaannya mengikuti zaman, tanpa mengubah substansi. Keterbukaan membuat Pancasila relevan dari masa Orde Lama hingga era digital.</p>"
+     }
+    ]
+   },
+   {
+    "id": "s3-3",
+    "number": "3.3",
+    "title": "Dimensi Pancasila",
+    "lead": "<p>Pancasila memiliki dimensi filosofis, politis, dan sosiologis.</p>",
+    "details": [
+     {
+      "title": "Tiga dimensi",
+      "html": "<p>Dimensi filosofis: Pancasila sebagai nilai moral. Dimensi politis: Pancasila sebagai dasar negara dan pedoman kebijakan. Dimensi sosiologis: Pancasila sebagai budaya hidup masyarakat Indonesia sehari-hari.</p>"
+     }
+    ]
+   },
+   {
+    "id": "s3-4",
+    "number": "3.4",
+    "title": "Tantangan Penerapan",
+    "lead": "<p>Penerapan Pancasila menghadapi tantangan dari dalam dan luar.</p>",
+    "details": [
+     {
+      "title": "Contoh tantangan",
+      "html": "<p>Tantangan internal: pemahaman yang hanya sebatas hafalan, tindak tanduk tidak sesuai. Tantangan eksternal: <strong>globalisasi</strong>, nilai asing yang bertentangan, dan aktivitas gerakan yang ingin mengganti <strong>ideologi negara</strong>.</p>"
+     }
+    ]
+   },
+   {
+    "id": "s3-5",
+    "number": "3.5",
+    "title": "Era Digital & Dunia Kerja",
+    "lead": "<p>Di era digital, Pancasila diwujudkan lewat tindakan bertanggung jawab di dunia maya.</p>",
+    "details": [
+     {
+      "title": "Penerapan digital",
+      "html": "<p>Tidak menyebarkan <strong>hoaks</strong>, tidak melanggar hak orang lain di media sosial, menggunakan teknologi untuk kepentingan bersama, serta menjaga nama baik bangsa melalui konten yang dibangun.</p>"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "title": "Proses Perubahan UUD 1945",
+  "kicker": "BAB 04 · reformasi 1998—2002",
+  "subtitle": "Tuntutan reformasi · dasar yuridis · struktur · lembaga",
+  "intro": "<p>Masa Reformasi menuntut perbaikan aturan dasar negara. Bab ini memuat tuntutan reformasi, latar belakang dan tujuan perubahan, dasar yuridis, struktur UUD sebelum dan sesudah perubahan, naskah resmi, serta lembaga ketatanegaraannya — lengkap dengan angka dan tanggal dari bahan tayangan resmi.</p>",
+  "sections": [
+   {
+    "id": "k4-1",
+    "number": "4.1",
+    "title": "Tuntutan Reformasi",
+    "lead": "<div class=\"term-chips\"><span>Reformasi</span><span>Amandemen UUD</span><span>Dwi Fungsi</span></div><p>Masa Reformasi melahirkan enam tuntutan pokok yang menjadi pendorong perubahan UUD 1945.</p>",
+    "details": [
+     {
+      "title": "Enam tuntutan pokok",
+      "html": "<p>Enam <strong>Tuntutan Reformasi</strong> menurut bahan tayangan:</p>\n<div class=\"table-scroll\"><table><thead><tr><th>No.</th><th>Tuntutan</th></tr></thead><tbody>\n<tr><td>1</td><td><strong>Amandemen UUD 1945</strong></td></tr>\n<tr><td>2</td><td><strong>Penghapusan doktrin Dwi Fungsi ABRI</strong></td></tr>\n<tr><td>3</td><td><strong>Penegakan hukum, HAM, dan pemberantasan KKN</strong></td></tr>\n<tr><td>4</td><td><strong>Otonomi Daerah</strong></td></tr>\n<tr><td>5</td><td><strong>Kebebasan Pers</strong></td></tr>\n<tr><td>6</td><td><strong>Mewujudkan kehidupan demokrasi</strong></td></tr>\n</tbody></table></div>\n<div class=\"tip-box\"><b>CATATAN</b><p>Tuntutan pertama — <strong>amandemen UUD 1945</strong> — menjadi jalan utama perubahan undang-undang dasar; tuntutan lain diwujudkan melalui perubahan UUD dan ketetapan MPR.</p></div>\n<div class=\"warn-box\"><b>JEBAKAN SOAL</b><p><strong>Dwi Fungsi ABRI</strong> berarti peran ganda ABRI (militer sekaligus sosial-politik). Yang dituntut adalah <em>penghapusan</em> — bukan penambahan — doktrin ini.</p></div>"
+     }
+    ]
+   },
+   {
+    "id": "k4-2",
+    "number": "4.2",
+    "title": "Latar Belakang & Tujuan Perubahan",
+    "lead": "<div class=\"term-chips\"><span>Aturan dasar</span><span>Kedaulatan</span><span>Negara hukum</span></div><p>Perubahan UUD 1945 bertujuan menyempurnakan aturan dasar negara agar sesuai aspirasi dan kebutuhan bangsa.</p>",
+    "details": [
+     {
+      "title": "Ruang lingkup penyempurnaan",
+      "html": "<p><strong>Latar belakang perubahan:</strong> menyempurnakan aturan dasar, mengenai:</p>\n<div class=\"table-scroll\"><table><thead><tr><th>No.</th><th>Aspek yang disempurnakan</th></tr></thead><tbody>\n<tr><td>1</td><td><strong>Tatanan negara</strong></td></tr>\n<tr><td>2</td><td><strong>Kedaulatan rakyat</strong></td></tr>\n<tr><td>3</td><td><strong>HAM</strong></td></tr>\n<tr><td>4</td><td><strong>Pembagian kekuasaan</strong></td></tr>\n<tr><td>5</td><td><strong>Kesejahteraan Sosial</strong></td></tr>\n<tr><td>6</td><td><strong>Eksistensi negara demokrasi dan negara hukum</strong></td></tr>\n<tr><td>7</td><td><strong>Hal-hal lain sesuai dengan perkembangan aspirasi dan kebutuhan bangsa</strong></td></tr>\n</tbody></table></div>\n<div class=\"def-box\"><b>PENGERTIAN</b><p><strong>Tujuan perubahan:</strong> menyempurnakan aturan dasar negara agar tatanan negara, kedaulatan rakyat, HAM, pembagian kekuasaan, kesejahteraan sosial, serta negara demokrasi dan negara hukum terwujud sesuai perkembangan aspirasi bangsa.</p></div>"
+     }
+    ]
+   },
+   {
+    "id": "k4-3",
+    "number": "4.3",
+    "title": "Dasar Yuridis & Sidang MPR",
+    "lead": "<div class=\"term-chips\"><span>Pasal 37</span><span>TAP MPR</span><span>Kesepakatan</span></div><p>Perubahan UUD 1945 berlandaskan dasar yuridis resmi dan kesepakatan empat sidang MPR tahun 1999—2002.</p>",
+    "details": [
+     {
+      "title": "Dasar yuridis dan kesepakatan dasar",
+      "html": "<p><strong>Dasar yuridis perubahan UUD 1945:</strong></p>\n<ul>\n<li><strong>Pasal 3 UUD 1945</strong></li>\n<li><strong>Pasal 37 UUD 1945</strong></li>\n<li><strong>TAP MPR No. IX/MPR/1999</strong></li>\n<li><strong>TAP MPR No. IX/MPR/2000</strong></li>\n<li><strong>TAP MPR No. XI/MPR/2001</strong></li>\n</ul>\n<p><strong>Kesepakatan dasar — sidang MPR:</strong></p>\n<div class=\"table-scroll\"><table><thead><tr><th>Sidang</th><th>Tanggal</th></tr></thead><tbody>\n<tr><td><strong>Sidang Umum MPR 1999</strong></td><td>14—21 Oktober 1999</td></tr>\n<tr><td><strong>Sidang Tahunan MPR 2000</strong></td><td>7—18 Agustus 2000</td></tr>\n<tr><td><strong>Sidang Tahunan MPR 2001</strong></td><td>1—9 November 2001</td></tr>\n<tr><td><strong>Sidang Tahunan MPR 2002</strong></td><td>1—11 Agustus 2002</td></tr>\n</tbody></table></div>\n<div class=\"tip-box\"><b>CATATAN</b><p>Empat sidang ini menjadi kesepakatan dasar pelaksanaan amandemen I sampai amandemen IV secara berurutan.</p></div>"
+     }
+    ]
+   },
+   {
+    "id": "k4-4",
+    "number": "4.4",
+    "title": "Struktur UUD: Sebelum & Sesudah",
+    "lead": "<div class=\"term-chips\"><span>16 bab</span><span>21 bab</span><span>Aturan Peralihan</span></div><p>Perubahan menambah jumlah bab, pasal, dan ayat tanpa mengubah Pembukaan UUD 1945.</p>",
+    "details": [
+     {
+      "title": "Perbandingan struktur",
+      "html": "<div class=\"table-scroll\"><table><thead><tr><th>Bagian</th><th>Sebelum perubahan</th><th>Hasil perubahan</th></tr></thead><tbody>\n<tr><td>Bab</td><td>16</td><td><strong>21</strong></td></tr>\n<tr><td>Pasal</td><td>37</td><td><strong>73</strong></td></tr>\n<tr><td>Ayat</td><td>49</td><td><strong>170</strong></td></tr>\n<tr><td>Pasal Aturan Peralihan</td><td>4</td><td><strong>3</strong></td></tr>\n<tr><td>Aturan Tambahan</td><td>2 ayat</td><td><strong>2 pasal</strong></td></tr>\n</tbody></table></div>\n<p><strong>Sebelum perubahan:</strong> Pembukaan; Batang Tubuh (16 bab, 37 pasal, 49 ayat, 4 pasal Aturan Peralihan, 2 ayat Aturan Tambahan); Penjelasan.<br>\n<strong>Hasil perubahan:</strong> Pembukaan; Pasal-pasal (21 bab, 73 pasal, 170 ayat, 3 pasal Aturan Peralihan, 2 pasal Aturan Tambahan).</p>\n<div class=\"def-box\"><b>PENGERTIAN</b><p><strong>Prinsip perubahan:</strong> tidak mengubah Pembukaan UUD 1945; tetap mempertahankan Negara Kesatuan Republik Indonesia; mempertegas sistem presidensiil; penjelasan UUD 1945 yang memuat hal-hal normatif dimasukkan ke dalam pasal-pasal; perubahan dilakukan dengan cara <strong>adendum</strong>.</p></div>\n<div class=\"warn-box\"><b>JEBAKAN SOAL</b><p>Angka yang sering tertukar: sebelum <strong>16 bab / 37 pasal / 49 ayat</strong>, sesudah <strong>21 bab / 73 pasal / 170 ayat</strong>. Aturan Peralihan justru berkurang (4 → 3 pasal).</p></div>"
+     }
+    ]
+   },
+   {
+    "id": "k4-5",
+    "number": "4.5",
+    "title": "Naskah Resmi & Empat Amandemen",
+    "lead": "<div class=\"term-chips\"><span>18 Agustus 1945</span><span>Dekrit</span><span>Adendum</span></div><p>UUD 1945 memiliki satu naskah asli dan empat naskah perubahan hasil sidang MPR 1999—2002.</p>",
+    "details": [
+     {
+      "title": "Naskah resmi dan naskah perubahan",
+      "html": "<p><strong>Naskah resmi UUD 1945:</strong></p>\n<ul>\n<li>Ditetapkan pada <strong>18 Agustus 1945</strong>.</li>\n<li>Diberlakukan kembali dengan <strong>Dekrit Presiden 5 Juli 1959</strong>.</li>\n<li>Dikukuhkan secara <strong>aklamasi pada 22 Juli 1959</strong> oleh Dewan Perwakilan Rakyat (Lembaran Negara No. 75 Tahun 1959).</li>\n</ul>\n<div class=\"table-scroll\"><table><thead><tr><th>Naskah</th><th>Hasil sidang</th></tr></thead><tbody>\n<tr><td>Naskah Perubahan Pertama</td><td>Sidang Umum MPR Tahun 1999</td></tr>\n<tr><td>Naskah Perubahan Kedua</td><td>Sidang Tahunan MPR Tahun 2000</td></tr>\n<tr><td>Naskah Perubahan Ketiga</td><td>Sidang Tahunan MPR Tahun 2001</td></tr>\n<tr><td>Naskah Perubahan Keempat</td><td>Sidang Tahunan MPR Tahun 2002</td></tr>\n</tbody></table></div>\n<div class=\"tip-box\"><b>CATATAN</b><p><strong>UUD 1945 dalam Satu Naskah</strong> adalah Risalah Rapat Paripurna ke-5 Sidang Tahunan MPR Tahun 2002 sebagai naskah perbantuan dan kompilasi tanpa opini.</p></div>"
+     }
+    ]
+   },
+   {
+    "id": "k4-6",
+    "number": "4.6",
+    "title": "Lembaga Ketatanegaraan UUD 1945",
+    "lead": "<div class=\"term-chips\"><span>MPR</span><span>DPR & DPD</span><span>Mahkamah</span></div><p>UUD 1945 menetapkan lembaga-lembaga negara beserta kekuasaan pokoknya menurut pasal masing-masing.</p>",
+    "details": [
+     {
+      "title": "Daftar lembaga dan kekuasaan pokok",
+      "html": "<p><strong>Lembaga-lembaga dalam sistem ketatanegaraan menurut UUD 1945:</strong> MPR; DPR; DPD; Presiden/Wakil Presiden; Mahkamah Agung; Komisi Yudisial; Mahkamah Konstitusi; Badan Pemeriksa Keuangan; bank sentral; TNI/POLRI; dewan pertimbangan; kementerian negara; badan-badan lain yang fungsinya berkaitan dengan kekuasaan kehakiman; lingkungan peradilan (TUN, Militer, Agama, Umum); pemerintahan daerah (Gubernur; Bupati/Walikota).</p>\n<div class=\"table-scroll\"><table><thead><tr><th>Lembaga</th><th>Kekuasaan pokok</th><th>Dasar</th></tr></thead><tbody>\n<tr><td><strong>MPR</strong></td><td>Mengubah dan menetapkan UUD; melantik serta memberhentikan Presiden/Wakil Presiden</td><td>Pasal 3 &amp; Pasal 37</td></tr>\n<tr><td><strong>DPR</strong></td><td>Memegang kekuasaan membentuk UU</td><td>Pasal 20 ayat (1)</td></tr>\n<tr><td><strong>Presiden</strong></td><td>Memegang kekuasaan pemerintahan</td><td>Pasal 4 ayat (1)</td></tr>\n<tr><td><strong>Kekuasaan kehakiman</strong></td><td>Merdeka menyelenggarakan peradilan guna menegakkan hukum dan keadilan</td><td>Pasal 24 ayat (1)</td></tr>\n</tbody></table></div>\n<div class=\"tip-box\"><b>CATATAN</b><p>Wewenang MPR lain: memilih Wakil Presiden dari dua calon usulan Presiden saat kekosongan [Pasal 8 ayat (2)] dan memilih Presiden serta Wakil Presiden dari dua pasangan calon yang meraih suara terbanyak pertama dan kedua [Pasal 8 ayat (3)].</p></div>"
+     }
+    ]
+   },
+   {
+    "id": "k4-7",
+    "number": "4.7",
+    "title": "MPR: Sebelum & Sesudah Perubahan",
+    "lead": "<div class=\"term-chips\"><span>Lembaga Tertinggi</span><span>GBHN</span><span>Lembaga Negara</span></div><p>Perubahan UUD 1945 mengubah kedudukan dan wewenang MPR secara mendasar.</p>",
+    "details": [
+     {
+      "title": "Perbandingan kedudukan dan wewenang",
+      "html": "<div class=\"table-scroll\"><table><thead><tr><th>Aspek</th><th>Sebelum perubahan</th><th>Sesudah perubahan</th></tr></thead><tbody>\n<tr><td>Kedudukan</td><td><strong>Lembaga Tertinggi Negara</strong>; penjelmaan seluruh rakyat; pemegang dan pelaksana sepenuhnya kedaulatan rakyat</td><td><strong>Lembaga Negara</strong>; lembaga permusyawaratan rakyat</td></tr>\n<tr><td>Keanggotaan</td><td>—</td><td>Anggota DPR dan DPD dipilih melalui pemilu</td></tr>\n<tr><td>Wewenang utama</td><td>Menetapkan dan mengubah UUD 1945; menetapkan GBHN; memilih &amp; mengangkat Presiden &amp; Wapres; membuat putusan yang tidak dapat dibatalkan lembaga negara lain; memberi penjelasan/penafsiran putusan MPR; meminta pertanggungjawaban Presiden; memberhentikan Presiden</td><td>Mengubah dan menetapkan UUD; melantik Presiden dan Wapres; memberhentikan Presiden dan/atau Wapres dalam masa jabatan menurut UUD; melantik Wapres menjadi Presiden bila Presiden mangkat/berhenti/diberhentikan/tidak dapat melaksanakan kewajiban; memilih dan melantik Wapres saat kekosongan; memilih dan melantik Presiden serta Wapres bila keduanya berhenti bersamaan</td></tr>\n</tbody></table></div>\n<div class=\"warn-box\"><b>JEBAKAN SOAL</b><p><strong>GBHN hanya ada sebelum perubahan.</strong> Sesudah perubahan, MPR bukan lagi lembaga tertinggi dan tidak menetapkan GBHN — kedudukannya menjadi lembaga negara.</p></div>"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "title": "Periodisasi Konstitusi",
+  "kicker": "BAB 05 · lima periode konstitusi",
+  "subtitle": "Lima periode · amandemen I—IV · tugas pasal",
+  "intro": "<p>Periodisasi konstitusi Indonesia terdiri atas lima periode dengan rentang tanggal yang pasti. Bab ini menyajikan urutan periode, rentang waktu amandemen I sampai IV, serta tugas menemukan pasal-pasal yang diamandemen.</p>",
+  "sections": [
+   {
+    "id": "k5-1",
+    "number": "5.1",
+    "title": "Periode 1945—1959",
+    "lead": "<div class=\"term-chips\"><span>UUD 1945</span><span>Konstitusi RIS</span><span>UUDS 1950</span></div><p>Tiga konstitusi pertama berlaku bergantian sepanjang 1945 sampai 1959.</p>",
+    "details": [
+     {
+      "title": "Tiga periode awal",
+      "html": "<div class=\"table-scroll\"><table><thead><tr><th>Konstitusi</th><th>Rentang waktu</th></tr></thead><tbody>\n<tr><td><strong>Undang-Undang Dasar 1945</strong></td><td>18 Agustus 1945 — 27 Desember 1949</td></tr>\n<tr><td><strong>Konstitusi RIS</strong> (Republik Indonesia Serikat)</td><td>27 Desember 1949 — 17 Agustus 1950</td></tr>\n<tr><td><strong>UUDS 1950</strong></td><td>17 Agustus 1950 — 5 Juli 1959</td></tr>\n</tbody></table></div>\n<div class=\"tip-box\"><b>CATATAN</b><p>Periode berpindah tepat pada tanggal bergantinya konstitusi: UUD 1945 berakhir saat Konstitusi RIS mulai berlaku (27 Desember 1949), dan UUDS 1950 berakhir pada 5 Juli 1959.</p></div>"
+     }
+    ]
+   },
+   {
+    "id": "k5-2",
+    "number": "5.2",
+    "title": "Periode 1959—1999",
+    "lead": "<div class=\"term-chips\"><span>Dekrit 5 Juli 1959</span><span>UUD 1945 kembali</span></div><p>Setelah UUDS 1950 berakhir, UUD 1945 kembali berlaku sampai amandemen pertama dimulai.</p>",
+    "details": [
+     {
+      "title": "UUD 1945 kembali berlaku",
+      "html": "<div class=\"table-scroll\"><table><thead><tr><th>Konstitusi</th><th>Rentang waktu</th></tr></thead><tbody>\n<tr><td><strong>UUD 1945</strong></td><td>5 Juli 1959 — 19 Oktober 1999</td></tr>\n</tbody></table></div>\n<div class=\"def-box\"><b>PENGERTIAN</b><p>Periode ini dimulai saat UUD 1945 diberlakukan kembali dengan <strong>Dekrit Presiden 5 Juli 1959</strong> dan berakhir saat <strong>amandemen I</strong> dimulai pada 19 Oktober 1999.</p></div>"
+     }
+    ]
+   },
+   {
+    "id": "k5-3",
+    "number": "5.3",
+    "title": "Amandemen I—IV",
+    "lead": "<div class=\"term-chips\"><span>1999—2002</span><span>Amandemen</span><span>10 Agustus 2002</span></div><p>Empat amandemen berlangsung berurutan sepanjang 1999 sampai 2002 dengan rentang tanggal pasti.</p>",
+    "details": [
+     {
+      "title": "Rentang waktu setiap amandemen",
+      "html": "<div class=\"table-scroll\"><table><thead><tr><th>Amandemen</th><th>Rentang waktu</th></tr></thead><tbody>\n<tr><td><strong>I</strong></td><td>19 Oktober 1999 — 18 Agustus 2000</td></tr>\n<tr><td><strong>II</strong></td><td>18 Agustus 2000 — 9 November 2001</td></tr>\n<tr><td><strong>III</strong></td><td>9 November 2001 — 10 Agustus 2002</td></tr>\n<tr><td><strong>IV</strong></td><td>10 Agustus 2002 — sekarang</td></tr>\n</tbody></table></div>\n<p>Periode kelima konstitusi Indonesia adalah <strong>UUD 1945 hasil amandemen I, II, III, dan IV</strong> yang berlaku sejak <strong>10 Agustus 2002 sampai sekarang</strong>.</p>\n<div class=\"warn-box\"><b>JEBAKAN SOAL</b><p>Rentang amandemen <strong>berurutan tanpa jeda</strong>: amandemen II langsung dimulai saat amandemen I berakhir (18 Agustus 2000), dan seterusnya. Tanggal awal amandemen I (19 Oktober 1999) juga menjadi akhir periode UUD 1945 sebelumnya.</p></div>"
+     }
+    ]
+   },
+   {
+    "id": "k5-4",
+    "number": "5.4",
+    "title": "Tugas: Pasal yang Diamandemen",
+    "lead": "<div class=\"term-chips\"><span>Naskah perubahan</span><span>Nomor pasal</span><span>Catatan</span></div><p>Materi periodisasi ditutup dengan tugas menemukan pasal-pasal yang diamandemen dari amandemen pertama sampai keempat.</p>",
+    "details": [
+     {
+      "title": "Tugas mandiri",
+      "html": "<div class=\"def-box\"><b>TUGAS</b><p><strong>Carilah pasal-pasal yang telah diamandemen, dari amandemen pertama sampai keempat.</strong></p></div>\n<p><strong>Cara mengerjakan:</strong></p>\n<ol>\n<li>Siapkan <strong>naskah perubahan I sampai IV</strong> (dari bahan tayangan atau sumber resmi).</li>\n<li>Bandingkan bunyi pasal lama dan pasal hasil perubahan.</li>\n<li>Catat <strong>nomor pasal</strong>, <strong>amandemen ke berapa</strong>, dan <strong>ringkasan perubahannya</strong>.</li>\n</ol>\n<div class=\"tip-box\"><b>CATATAN</b><p>Contoh format catatan: <em>“Pasal 6A — amandemen III — Presiden dan Wakil Presiden dipilih dalam satu pasangan secara langsung oleh rakyat.”</em></p></div>"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "title": "TAP MPR & Tata Cara UUD",
+  "kicker": "BAB 06 · TAP MPRS/MPR 1960—2002",
+  "subtitle": "TAP MPR I/MPR/2003 · tata cara perubahan · pemberhentian",
+  "intro": "<p>Bab ini menyusun materi ketetapan MPR: pengelompokan 139 TAP MPRS/MPR tahun 1960—2002 ke dalam enam pasal menurut TAP MPR No. I/MPR/2003, contoh TAP beserta statusnya, serta tata cara perubahan UUD 1945 dan pemberhentian presiden.</p>",
+  "sections": [
+   {
+    "id": "k6-1",
+    "number": "6.1",
+    "title": "TAP MPR No. I/MPR/2003",
+    "lead": "<div class=\"term-chips\"><span>139 TAP</span><span>Enam pasal</span><span>Status hukum</span></div><p>TAP MPR No. I/MPR/2003 mengelompokkan 139 TAP MPRS/MPR tahun 1960—2002 ke dalam enam pasal berdasarkan materi dan status hukumnya.</p>",
+    "details": [
+     {
+      "title": "Enam kelompok status",
+      "html": "<div class=\"def-box\"><b>PENGERTIAN</b><p><strong>TAP MPR No. I/MPR/2003</strong> tentang Peninjauan terhadap Materi dan Status Hukum Ketetapan MPRS dan Ketetapan MPR Tahun 1960 sampai dengan Tahun 2002. Tujuannya: meninjau materi dan status hukum setiap TAP; menetapkan keberadaan (eksistensi) TAP untuk saat ini dan masa yang akan datang; serta memberi kepastian hukum.</p></div>\n<div class=\"table-scroll\"><table><thead><tr><th>Pasal</th><th>Status</th><th>Jumlah</th></tr></thead><tbody>\n<tr><td>Pasal 1</td><td>TAP MPRS/TAP MPR yang <strong>dicabut dan dinyatakan tidak berlaku</strong></td><td><strong>8</strong></td></tr>\n<tr><td>Pasal 2</td><td>TAP yang <strong>tetap berlaku dengan ketentuan</strong></td><td><strong>3</strong></td></tr>\n<tr><td>Pasal 3</td><td>TAP yang tetap berlaku <strong>sampai terbentuknya Pemerintahan Hasil Pemilu 2004</strong></td><td><strong>8</strong></td></tr>\n<tr><td>Pasal 4</td><td>TAP yang tetap berlaku <strong>sampai terbentuknya undang-undang</strong></td><td><strong>11</strong></td></tr>\n<tr><td>Pasal 5</td><td>TAP yang masih berlaku <strong>sampai ditetapkannya Peraturan Tata Tertib baru oleh MPR Hasil Pemilu 2004</strong></td><td><strong>5</strong></td></tr>\n<tr><td>Pasal 6</td><td>TAP yang <strong>tidak perlu tindakan hukum lebih lanjut</strong> (final/einmalig, telah dicabut, atau telah selesai dilaksanakan)</td><td><strong>104</strong></td></tr>\n</tbody></table></div>\n<div class=\"tip-box\"><b>CATATAN</b><p>Total seluruh ketetapan: <strong>8 + 3 + 8 + 11 + 5 + 104 = 139 TAP</strong> MPRS/MPR periode 1960—2002.</p></div>"
+     }
+    ]
+   },
+   {
+    "id": "k6-2",
+    "number": "6.2",
+    "title": "Pasal 1 & 2: Dicabut dan Tetap Berlaku",
+    "lead": "<div class=\"term-chips\"><span>8 dicabut</span><span>3 ketentuan</span><span>XXV/MPRS/1966</span></div><p>Delapan TAP dicabut, tiga TAP tetap berlaku dengan ketentuan tertentu.</p>",
+    "details": [
+     {
+      "title": "Contoh TAP dan statusnya",
+      "html": "<p><strong>Pasal 1 — dicabut dan tidak berlaku (8 TAP).</strong> Kedelapan TAP tersebut telah berakhir masa berlakunya dan/atau telah diatur di dalam UUD 1945, antara lain: TAP MPRS No. X/MPRS/1966; TAP MPR No. VI/MPR/1973; TAP MPR No. VII/MPR/1973; TAP MPR No. III/MPR/1978; TAP MPR No. III/MPR/1988 tentang Pemilihan Umum; TAP MPR No. XIII/MPR/1998 tentang Pembatasan Masa Jabatan Presiden dan Wakil Presiden; TAP MPR No. XIV/MPR/1998; TAP MPR No. XVII/MPR/1998 tentang Hak Asasi Manusia.</p>\n<p><strong>Pasal 2 — tetap berlaku dengan ketentuan (3 TAP):</strong></p>\n<div class=\"table-scroll\"><table><thead><tr><th>TAP</th><th>Tentang</th><th>Ketentuan</th></tr></thead><tbody>\n<tr><td><strong>TAP MPRS No. XXV/MPRS/1966</strong></td><td>Pembubaran PKI; PKI dinyatakan organisasi terlarang; larangan penyebaran faham komunisme/Marxisme-Leninisme</td><td>Diberlakukan dengan berkeadilan dan menghormati hukum, prinsip demokrasi, dan HAM</td></tr>\n<tr><td><strong>TAP MPR No. XVI/MPR/1998</strong></td><td>Politik Ekonomi dalam Rangka Demokrasi Ekonomi</td><td>Pemerintah mendorong keberpihakan politik ekonomi pada usaha kecil menengah dan koperasi sebagai pilar ekonomi, sesuai hakikat Pasal 33 UUD 1945</td></tr>\n<tr><td><strong>TAP MPR No. V/MPR/1999</strong></td><td>Penentuan Pendapat di Timor Timur</td><td>Berlaku sampai ketentuan Pasal 5 dan Pasal 6 TAP V/MPR/1999 dilaksanakan (kewarganegaraan, pengungsian, pengembalian aset, hak perdata)</td></tr>\n</tbody></table></div>"
+     }
+    ]
+   },
+   {
+    "id": "k6-3",
+    "number": "6.3",
+    "title": "Pasal 3 & 4: Berlaku Sementara",
+    "lead": "<div class=\"term-chips\"><span>Pemilu 2004</span><span>Terbentuk UU</span><span>11 TAP</span></div><p>Sembilan belas TAP berlaku sementara sampai syarat tertentu terpenuhi.</p>",
+    "details": [
+     {
+      "title": "Dua kelompok batas waktu",
+      "html": "<p><strong>Pasal 3 — tetap berlaku sampai terbentuknya Pemerintahan Hasil Pemilu 2004 (8 TAP):</strong></p>\n<ul>\n<li>TAP MPR No. IV/MPR/1999 tentang GBHN tahun 1999—2004</li>\n<li>TAP MPR No. IV/MPR/2000 tentang Rekomendasi Kebijakan dalam Penyelenggaraan Otonomi Daerah</li>\n<li>TAP MPR No. VIII/MPR/2000 tentang Laporan Tahunan Lembaga-Lembaga Tinggi Negara pada Sidang Tahunan MPR Tahun 2000</li>\n<li>TAP MPR No. III/MPR/2001 tentang Penetapan Wakil Presiden Megawati Soekarnoputri sebagai Presiden</li>\n<li>TAP MPR No. IV/MPR/2001 tentang Pengangkatan Wakil Presiden</li>\n<li>TAP MPR No. X/MPR/2001 tentang Laporan Pelaksanaan Putusan MPR</li>\n<li>TAP MPR No. II/MPR/2002 tentang Rekomendasi Kebijakan untuk Mempercepat Pemulihan Ekonomi Nasional</li>\n<li>TAP MPR No. VI/MPR/2002 tentang Rekomendasi atas Laporan Pelaksanaan Putusan MPR</li>\n</ul>\n<p>Kedelapan TAP tersebut <strong>tidak berlaku</strong> karena Pemerintahan hasil Pemilu 2004 telah terbentuk.</p>\n<p><strong>Pasal 4 — tetap berlaku sampai terbentuknya undang-undang (11 TAP):</strong></p>\n<ul>\n<li>TAP MPRS No. XXIX/MPRS/1966 tentang Pengangkatan Pahlawan Ampera</li>\n<li>TAP MPR No. XI/MPR/1998 tentang Penyelenggara Negara yang Bersih dan Bebas KKN</li>\n<li>TAP MPR No. XV/MPR/1998 tentang Penyelenggaraan Otonomi Daerah; Pengaturan, Pembagian, dan Pemanfaatan Sumber Daya Nasional yang Berkeadilan; serta Perimbangan Keuangan Pusat dan Daerah dalam Kerangka NKRI</li>\n<li>TAP MPR No. III/MPR/2000 tentang Sumber Hukum dan Tata Urutan Peraturan Perundang-undangan</li>\n<li>TAP MPR No. V/MPR/2000 tentang Pemantapan Persatuan dan Kesatuan Nasional</li>\n<li>TAP MPR No. VI/MPR/2000 tentang Pemisahan TNI dan POLRI</li>\n<li>TAP MPR No. VII/MPR/2000 tentang Peran TNI dan Peran POLRI</li>\n<li>TAP MPR No. VI/MPR/2001 tentang Etika Kehidupan Berbangsa</li>\n<li>TAP MPR No. VII/MPR/2001 tentang Visi Indonesia Masa Depan</li>\n<li>TAP MPR No. VIII/MPR/2001 tentang Rekomendasi Arah Kebijakan Pemberantasan dan Pencegahan KKN</li>\n<li>TAP MPR No. IX/MPR/2001 tentang Pembaruan Agraria dan Pengelolaan Sumber Daya Alam</li>\n</ul>"
+     }
+    ]
+   },
+   {
+    "id": "k6-4",
+    "number": "6.4",
+    "title": "Pasal 5 & 6: Tatib dan Final",
+    "lead": "<div class=\"term-chips\"><span>Tatib MPR</span><span>104 TAP</span><span>Einmalig</span></div><p>Lima TAP tata tertib MPR dan 104 TAP final ditutup statusnya dalam TAP MPR No. I/MPR/2003.</p>",
+    "details": [
+     {
+      "title": "Dua kelompok terakhir",
+      "html": "<p><strong>Pasal 5 — masih berlaku sampai ditetapkannya Peraturan Tata Tertib baru oleh MPR Hasil Pemilu 2004 (5 TAP):</strong> TAP MPR No. II/MPR/1999; No. I/MPR/2000; No. II/MPR/2000; No. V/MPR/2001; dan No. V/MPR/2002 — semuanya tentang Peraturan Tata Tertib MPR. Kelima TAP tersebut <strong>sudah tidak berlaku lagi</strong> karena telah terbentuknya Peraturan Tata Tertib MPR hasil Pemilu 2004.</p>\n<div class=\"def-box\"><b>PENGERTIAN</b><p><strong>Pasal 6 — tidak perlu tindakan hukum lebih lanjut (104 TAP).</strong> Ketetapan dinyatakan tidak perlu dilakukan tindakan hukum lebih lanjut, baik karena bersifat <strong>final (einmalig)</strong>, telah <strong>dicabut</strong>, maupun telah <strong>selesai dilaksanakan</strong>. Ini kelompok terbesar: 104 dari 139 TAP.</p></div>\n<div class=\"warn-box\"><b>JEBAKAN SOAL</b><p>Jumlah tiap pasal: <strong>8 · 3 · 8 · 11 · 5 · 104</strong>. Yang paling sering ditukar adalah Pasal 3 (8 — sampai Pemilu 2004) dan Pasal 4 (11 — sampai terbentuk UU).</p></div>"
+     }
+    ]
+   },
+   {
+    "id": "k6-5",
+    "number": "6.5",
+    "title": "Tata Cara Perubahan UUD 1945",
+    "lead": "<div class=\"term-chips\"><span>Pasal 37</span><span>Pasal 91—94</span><span>1/3 anggota</span></div><p>Perubahan UUD 1945 mengikuti tata cara ketat menurut Pasal 37 UUD 1945 dan Tatib MPR (Keputusan MPR No. 1/MPR/2010).</p>",
+    "details": [
+     {
+      "title": "Dari usul sampai putusan",
+      "html": "<p><strong>Dasar: Pasal 37 UUD 1945</strong></p>\n<ul>\n<li>Usul perubahan diajukan oleh sekurang-kurangnya <strong>1/3 jumlah anggota MPR</strong> [Pasal 37 ayat (1)].</li>\n<li>Usul diajukan <strong>tertulis</strong> dan ditunjukkan dengan jelas bagian yang diusulkan untuk diubah beserta alasannya [ayat (2)].</li>\n<li>Sidang MPR dihadiri sekurang-kurangnya <strong>2/3 jumlah anggota MPR</strong> [ayat (3)].</li>\n<li>Putusan diambil dengan persetujuan sekurang-kurangnya <strong>50% + 1 anggota</strong> dari seluruh anggota MPR [ayat (4)].</li>\n<li>Khusus mengenai <strong>bentuk NKRI tidak dapat dilakukan perubahan</strong> [ayat (5)].</li>\n</ul>\n<p><strong>Tatib MPR — Keputusan MPR No. 1/MPR/2010 (Pasal 91—94):</strong></p>\n<div class=\"table-scroll\"><table><thead><tr><th>Tahap</th><th>Ketentuan</th></tr></thead><tbody>\n<tr><td>Pengajuan</td><td>Usul diajukan 1/3 anggota, tertulis dan jelas [Pasal 91]</td></tr>\n<tr><td>Pimpinan</td><td>Usul diajukan ke Pimpinan dan dibuatkan berita acara; usul <strong>tidak dapat ditarik</strong> setelah 3×24 jam [Pasal 92]</td></tr>\n<tr><td>Pemeriksaan</td><td>Pimpinan memeriksa kelengkapan; pemeriksaan paling lama <strong>30 hari</strong> [Pasal 92]</td></tr>\n<tr><td>Salinan</td><td>Anggota menerima salinan usul paling lambat <strong>14 hari</strong> sebelum Sidang Paripurna; usul yang tidak lengkap <strong>ditolak</strong> [Pasal 94]</td></tr>\n</tbody></table></div>"
+     }
+    ]
+   },
+   {
+    "id": "k6-6",
+    "number": "6.6",
+    "title": "Pemberhentian Presiden & Wapres",
+    "lead": "<div class=\"term-chips\"><span>Pasal 7B</span><span>Mahkamah Konstitusi</span><span>90 hari</span></div><p>Pemberhentian Presiden dan/atau Wakil Presiden dalam masa jabatan melalui usul DPR dengan putusan Mahkamah Konstitusi.</p>",
+    "details": [
+     {
+      "title": "Alur dari usul DPR sampai putusan MPR",
+      "html": "<div class=\"table-scroll\"><table><thead><tr><th>Tahap</th><th>Ketentuan</th></tr></thead><tbody>\n<tr><td>Pendapat DPR</td><td>Presiden dan/atau Wapres dianggap telah melakukan pelanggaran hukum atau tidak lagi memenuhi syarat [Pasal 7B ayat (2)]</td></tr>\n<tr><td>Pengajuan ke MK</td><td>Didukung sekurang-kurangnya <strong>2/3 anggota</strong> yang hadir dalam sidang paripurna yang dihadiri <strong>2/3 anggota</strong> [ayat (3)]</td></tr>\n<tr><td>Mahkamah Konstitusi</td><td>Wajib memeriksa, mengadili, dan memutus paling lama <strong>90 hari</strong> setelah permintaan diterima [ayat (4)]</td></tr>\n<tr><td>DPR → MPR</td><td>DPR menyelenggarakan sidang paripurna meneruskan usul pemberhentian kepada MPR [ayat (5)]</td></tr>\n<tr><td>MPR</td><td>Wajib menyelenggarakan sidang memutus usul paling lambat <strong>30 hari</strong> sejak usul diterima [ayat (6)]</td></tr>\n<tr><td>Keputusan</td><td>Sidang paripurna dihadiri <strong>3/4 anggota</strong>, disetujui <strong>2/3 yang hadir</strong>, setelah Presiden/Wapres diberi kesempatan menyampaikan penjelasan [ayat (7)]</td></tr>\n</tbody></table></div>\n<div class=\"tip-box\"><b>CATATAN</b><p>Menurut Tatib MPR (Pasal 102—103): MPR mengambil putusan paling lambat 30 hari setelah menerima usul disertai putusan MK; Presiden dan/atau Wapres <strong>wajib hadir</strong> memberi penjelasan — apabila tidak hadir, MPR tetap mengambil putusan.</p></div>\n<div class=\"tip-box\"><b>CATATAN KEKOSONGAN</b><p>Kekosongan Wapres: MPR memilih dari dua calon usulan Presiden, selambat-lambatnya <strong>60 hari</strong> [Pasal 8 ayat (2)]. Jika Presiden dan Wapres berhalangan tetap bersamaan: MPR menyelenggarakan sidang selambat-lambatnya <strong>30 hari</strong> [Pasal 8 ayat (3)].</p></div>"
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,1042 @@
+[
+ {
+  "id": "P-01",
+  "chapter": 1,
+  "group": 1,
+  "prompt": "sila 1 Pancasila berbunyi…",
+  "options": [
+   {
+    "id": "P-01-A",
+    "text": "Ketuhanan Yang Maha Esa"
+   },
+   {
+    "id": "P-01-B",
+    "text": "Kemanusiaan yang Adil dan Beradab"
+   },
+   {
+    "id": "P-01-C",
+    "text": "Persatuan Indonesia"
+   },
+   {
+    "id": "P-01-D",
+    "text": "Keadilan Sosial bagi Seluruh Rakyat"
+   }
+  ],
+  "correct": "P-01-A",
+  "explanation": "Sila pertama Pancasila adalah Ketuhanan Yang Maha Esa, yang menjadi dasar negara."
+ },
+ {
+  "id": "P-02",
+  "chapter": 1,
+  "group": 1,
+  "prompt": "Makna sila 2 Pancasila adalah…",
+  "options": [
+   {
+    "id": "P-02-A",
+    "text": "Mengutamakan persatuan bangsa"
+   },
+   {
+    "id": "P-02-B",
+    "text": "Menghargai harkat dan martabat manusia"
+   },
+   {
+    "id": "P-02-C",
+    "text": "Mewujudkan persatuan bangsa"
+   },
+   {
+    "id": "P-02-D",
+    "text": "Mewujudkan kesejahteraan rakyat"
+   }
+  ],
+  "correct": "P-02-B",
+  "explanation": "Sila 2 menjunjung tinggi harkat, martabat, dan hak manusia sebagai makhluk Tuhan."
+ },
+ {
+  "id": "P-03",
+  "chapter": 1,
+  "group": 1,
+  "prompt": "sila 3 Pancasila menegaskan…",
+  "options": [
+   {
+    "id": "P-03-A",
+    "text": "Musyawarah untuk mufakat"
+   },
+   {
+    "id": "P-03-B",
+    "text": "Persatuan Indonesia"
+   },
+   {
+    "id": "P-03-C",
+    "text": "Keadilan sosial"
+   },
+   {
+    "id": "P-03-D",
+    "text": "Ketuhanan Yang Maha Esa"
+   }
+  ],
+  "correct": "P-03-B",
+  "explanation": "Sila 3 adalah Persatuan Indonesia, dengan semboyan Bhinneka Tunggal Ika."
+ },
+ {
+  "id": "P-04",
+  "chapter": 1,
+  "group": 1,
+  "prompt": "sila 4 Pancasila mengandung nilai…",
+  "options": [
+   {
+    "id": "P-04-A",
+    "text": "Musyawarah yang diliputi semangat kekeluargaan"
+   },
+   {
+    "id": "P-04-B",
+    "text": "Kekuasaan mutlak raja"
+   },
+   {
+    "id": "P-04-C",
+    "text": "Kekuasaan mayoritas tanpa kompromi"
+   },
+   {
+    "id": "P-04-D",
+    "text": "Kekuasaan militer"
+   }
+  ],
+  "correct": "P-04-A",
+  "explanation": "Sila 4 menekankan kepemimpinan kerakyatan melalui musyawarah mufakat yang kekeluargaan."
+ },
+ {
+  "id": "P-05",
+  "chapter": 1,
+  "group": 1,
+  "prompt": "sila 5 Pancasila adalah…",
+  "options": [
+   {
+    "id": "P-05-A",
+    "text": "Keadilan sosial bagi seluruh rakyat Indonesia"
+   },
+   {
+    "id": "P-05-B",
+    "text": "Kebebasan sepenuhnya tanpa aturan"
+   },
+   {
+    "id": "P-05-C",
+    "text": "Tujuan negara yang harus dicapai"
+   },
+   {
+    "id": "P-05-D",
+    "text": "sila dasar negara"
+   }
+  ],
+  "correct": "P-05-A",
+  "explanation": "Sila 5 berbunyi Keadilan Sosial bagi Seluruh Rakyat Indonesia, sebagai tujuan negara."
+ },
+ {
+  "id": "P-06",
+  "chapter": 5,
+  "group": 5,
+  "prompt": "UUD 1945 yang berlaku 18 Agustus 1945 sampai 27 Desember 1949 merupakan periode…",
+  "options": [
+   {
+    "id": "P-06-A",
+    "text": "pertama"
+   },
+   {
+    "id": "P-06-B",
+    "text": "kedua"
+   },
+   {
+    "id": "P-06-C",
+    "text": "ketiga"
+   },
+   {
+    "id": "P-06-D",
+    "text": "kelima"
+   }
+  ],
+  "correct": "P-06-A",
+  "explanation": "Lima periode: UUD 1945 (18 Agu 1945—27 Des 1949) pertama; Konstitusi RIS kedua; UUDS 1950 ketiga; UUD 1945 (5 Jul 1959—19 Okt 1999) keempat; UUD 1945 hasil amandemen I—IV (10 Agu 2002—sekarang) kelima."
+ },
+ {
+  "id": "P-07",
+  "chapter": 1,
+  "group": 1,
+  "prompt": "Yang termasuk hubungan antarsila yang benar adalah…",
+  "options": [
+   {
+    "id": "P-07-A",
+    "text": "sila 1 menjadi dasar bagi sila 2"
+   },
+   {
+    "id": "P-07-B",
+    "text": "sila 5 menjadi dasar bagi sila 1"
+   },
+   {
+    "id": "P-07-C",
+    "text": "Semua sila saling lepas"
+   },
+   {
+    "id": "P-07-D",
+    "text": "sila 2 dan sila 5 saling bertentangan"
+   }
+  ],
+  "correct": "P-07-A",
+  "explanation": "sila 1 (ketuhanan) menjadi landasan moral bagi sila 2 (kemanusiaan)."
+ },
+ {
+  "id": "P-08",
+  "chapter": 2,
+  "group": 2,
+  "prompt": "Contoh penerapan Pancasila di keluarga adalah…",
+  "options": [
+   {
+    "id": "P-08-A",
+    "text": "Beribadah bersama dan musyawarah rumah tangga"
+   },
+   {
+    "id": "P-08-B",
+    "text": "Mengadu domba antaranggota keluarga"
+   },
+   {
+    "id": "P-08-C",
+    "text": "Membiarkan konflik berlarut"
+   },
+   {
+    "id": "P-08-D",
+    "text": "Tidak mau mendengar pendapat"
+   }
+  ],
+  "correct": "P-08-A",
+  "explanation": "Penerapan di keluarga: beribadah bersama, saling menghargai, musyawarah menentukan keputusan."
+ },
+ {
+  "id": "P-09",
+  "chapter": 2,
+  "group": 2,
+  "prompt": "Cara utama menyelesaikan konflik nilai dalam masyarakat adalah…",
+  "options": [
+   {
+    "id": "P-09-A",
+    "text": "Musyawarah untuk mufakat"
+   },
+   {
+    "id": "P-09-B",
+    "text": "Memaksakan kehendak mayoritas"
+   },
+   {
+    "id": "P-09-C",
+    "text": "Memutakhirkan keputusan sendiri"
+   },
+   {
+    "id": "P-09-D",
+    "text": "Menghindari pertemuan"
+   }
+  ],
+  "correct": "P-09-A",
+  "explanation": "Sila 4 mengajarkan penyelesaian konflik melalui musyawarah mufakat yang kekeluargaan."
+ },
+ {
+  "id": "P-10",
+  "chapter": 2,
+  "group": 2,
+  "prompt": "Upacara bendera setiap Senin di sekolah mencerminkan…",
+  "options": [
+   {
+    "id": "P-10-A",
+    "text": "Penerapan Pancasila dalam budaya sekolah"
+   },
+   {
+    "id": "P-10-B",
+    "text": "SOP administrasi"
+   },
+   {
+    "id": "P-10-C",
+    "text": "Kedisiplinan military"
+   },
+   {
+    "id": "P-10-D",
+    "text": "Kewajiban paying"
+   }
+  ],
+  "correct": "P-10-A",
+  "explanation": "Upacara bendera adalah wujud nyata penerapan Pancasila dan kebangsaan di sekolah."
+ },
+ {
+  "id": "P-11",
+  "chapter": 2,
+  "group": 2,
+  "prompt": "Tindakan membantu tetangga yang sakit mencerminkan sila…",
+  "options": [
+   {
+    "id": "P-11-A",
+    "text": "sila 2 dan sila 5"
+   },
+   {
+    "id": "P-11-B",
+    "text": "Hanya sila 3"
+   },
+   {
+    "id": "P-11-C",
+    "text": "Hanya sila 1"
+   },
+   {
+    "id": "P-11-D",
+    "text": "sila 4 saja"
+   }
+  ],
+  "correct": "P-11-A",
+  "explanation": "Menjaga sesama manusia (sila 2) dan mewujudkan keadilan sosial (sila 5)."
+ },
+ {
+  "id": "P-12",
+  "chapter": 2,
+  "group": 2,
+  "prompt": "Keadilan sosial menyangkut…",
+  "options": [
+   {
+    "id": "P-12-A",
+    "text": "Pemerataan kesejahteraan bagi seluruh rakyat"
+   },
+   {
+    "id": "P-12-B",
+    "text": "Kekuasaan segelintir orang"
+   },
+   {
+    "id": "P-12-C",
+    "text": "Keuntungan bagi golongan tertentu"
+   },
+   {
+    "id": "P-12-D",
+    "text": "Keistimewaan tanpa batas"
+   }
+  ],
+  "correct": "P-12-A",
+  "explanation": "Keadilan sosial bertujuan pemerataan kesejahteraan, hak, dan kesempatan bagi seluruh rakyat."
+ },
+ {
+  "id": "P-13",
+  "chapter": 3,
+  "group": 3,
+  "prompt": "Pancasila sebagai ideologi negara berarti…",
+  "options": [
+   {
+    "id": "P-13-A",
+    "text": "Sistem gagasan yang mendasari negara"
+   },
+   {
+    "id": "P-13-B",
+    "text": "Slogan semata"
+   },
+   {
+    "id": "P-13-C",
+    "text": "Alat kekuasaan temporer"
+   },
+   {
+    "id": "P-13-D",
+    "text": "Doktrin asing"
+   }
+  ],
+  "correct": "P-13-A",
+  "explanation": "Ideologi negara adalah sistem gagasan yang menjadi dasar, arah, dan tujuan negara."
+ },
+ {
+  "id": "P-14",
+  "chapter": 3,
+  "group": 3,
+  "prompt": "Pancasila disebut ideologi terbuka karena…",
+  "options": [
+   {
+    "id": "P-14-A",
+    "text": "Nilai dasar tetap, penjabarannya berkembang sesuai zaman"
+   },
+   {
+    "id": "P-14-B",
+    "text": "Selalu berubah tanpa arah"
+   },
+   {
+    "id": "P-14-C",
+    "text": "Selalu berubah-ubah tanpa arah"
+   },
+   {
+    "id": "P-14-D",
+    "text": "Dapat diganti kapan saja"
+   }
+  ],
+  "correct": "P-14-A",
+  "explanation": "Keterbukaan: nilai dasar lima sila tetap, pelaksanaannya menyesuaikan perkembangan zaman."
+ },
+ {
+  "id": "P-15",
+  "chapter": 3,
+  "group": 3,
+  "prompt": "Dimensi Pancasila mencakup…",
+  "options": [
+   {
+    "id": "P-15-A",
+    "text": "Filosofis, politis, dan sosiologis"
+   },
+   {
+    "id": "P-15-B",
+    "text": "Hanya filosofis"
+   },
+   {
+    "id": "P-15-C",
+    "text": "Hanya politis"
+   },
+   {
+    "id": "P-15-D",
+    "text": "Hanya ekonomi"
+   }
+  ],
+  "correct": "P-15-A",
+  "explanation": "Pancasila memiliki dimensi filosofis (nilai), politis (dasar negara), dan sosiologis (budaya hidup)."
+ },
+ {
+  "id": "P-16",
+  "chapter": 3,
+  "group": 3,
+  "prompt": "Tantangan penerapan Pancasila di era modern adalah…",
+  "options": [
+   {
+    "id": "P-16-A",
+    "text": "Globalisasi dan nilai asing yang bertentangan"
+   },
+   {
+    "id": "P-16-B",
+    "text": "Tidak ada tantangan"
+   },
+   {
+    "id": "P-16-C",
+    "text": "Pancasila sudah tidak relevan"
+   },
+   {
+    "id": "P-16-D",
+    "text": "Semau sendiri"
+   }
+  ],
+  "correct": "P-16-A",
+  "explanation": "Globalisasi membawa arus nilai yang perlu disikapi dengan pemahaman Pancasila yang matang."
+ },
+ {
+  "id": "P-17",
+  "chapter": 4,
+  "group": 4,
+  "prompt": "Doktrin ABRI yang dituntut dihapus dalam Tuntutan Reformasi adalah…",
+  "options": [
+   {
+    "id": "P-17-A",
+    "text": "Dwi Fungsi ABRI"
+   },
+   {
+    "id": "P-17-B",
+    "text": "Otonomi Daerah"
+   },
+   {
+    "id": "P-17-C",
+    "text": "Kebebasan Pers"
+   },
+   {
+    "id": "P-17-D",
+    "text": "Pemerintahan yang terbuka"
+   }
+  ],
+  "correct": "P-17-A",
+  "explanation": "Penghapusan doktrin Dwi Fungsi ABRI adalah tuntutan reformasi kedua; selain itu amandemen UUD 1945, penegakan hukum/HAM/KKN, otonomi daerah, kebebasan pers, dan kehidupan demokrasi."
+ },
+ {
+  "id": "P-18",
+  "chapter": 4,
+  "group": 4,
+  "prompt": "Struktur UUD 1945 sebelum perubahan berjumlah…",
+  "options": [
+   {
+    "id": "P-18-A",
+    "text": "16 bab, 37 pasal, 49 ayat"
+   },
+   {
+    "id": "P-18-B",
+    "text": "21 bab, 73 pasal, 170 ayat"
+   },
+   {
+    "id": "P-18-C",
+    "text": "16 bab, 49 pasal, 37 ayat"
+   },
+   {
+    "id": "P-18-D",
+    "text": "21 bab, 37 pasal, 49 ayat"
+   }
+  ],
+  "correct": "P-18-A",
+  "explanation": "Sebelum perubahan: Pembukaan; Batang Tubuh 16 bab, 37 pasal, 49 ayat, 4 pasal Aturan Peralihan, 2 ayat Aturan Tambahan; Penjelasan."
+ },
+ {
+  "id": "P-19",
+  "chapter": 4,
+  "group": 4,
+  "prompt": "Hasil perubahan UUD 1945 berupa 21 bab, 73 pasal, dan 170 ayat berlaku sejak…",
+  "options": [
+   {
+    "id": "P-19-A",
+    "text": "Sidang Tahunan MPR 2002"
+   },
+   {
+    "id": "P-19-B",
+    "text": "Sidang Umum MPR 1999"
+   },
+   {
+    "id": "P-19-C",
+    "text": "Dekrit 5 Juli 1959"
+   },
+   {
+    "id": "P-19-D",
+    "text": "Pemilu 2004"
+   }
+  ],
+  "correct": "P-19-A",
+  "explanation": "Hasil perubahan (21 bab, 73 pasal, 170 ayat, 3 pasal Aturan Peralihan, 2 pasal Aturan Tambahan) ditetapkan lewat naskah perubahan keempat pada Sidang Tahunan MPR 2002."
+ },
+ {
+  "id": "P-20",
+  "chapter": 4,
+  "group": 4,
+  "prompt": "Dasar yuridis perubahan UUD 1945 adalah Pasal 3 dan Pasal 37 UUD 1945 serta…",
+  "options": [
+   {
+    "id": "P-20-A",
+    "text": "TAP MPR IX/1999, IX/2000, dan XI/2001"
+   },
+   {
+    "id": "P-20-B",
+    "text": "TAP MPR I/2003 dan II/1999"
+   },
+   {
+    "id": "P-20-C",
+    "text": "Dekrit Presiden 1959"
+   },
+   {
+    "id": "P-20-D",
+    "text": "UU No. 12 Tahun 2011"
+   }
+  ],
+  "correct": "P-20-A",
+  "explanation": "Dasar yuridis: Pasal 3 UUD 1945, Pasal 37 UUD 1945, TAP MPR No. IX/MPR/1999, TAP MPR No. IX/MPR/2000, dan TAP MPR No. XI/MPR/2001."
+ },
+ {
+  "id": "P-21",
+  "chapter": 1,
+  "group": 1,
+  "prompt": "sila 1 menjadi dasar bagi…",
+  "options": [
+   {
+    "id": "P-21-A",
+    "text": "Kemanusiaan, karena landasan moral beragama"
+   },
+   {
+    "id": "P-21-B",
+    "text": "Keadilan sosial"
+   },
+   {
+    "id": "P-21-C",
+    "text": "Musyawarah"
+   },
+   {
+    "id": "P-21-D",
+    "text": "Persatuan saja"
+   }
+  ],
+  "correct": "P-21-A",
+  "explanation": "sila 1 memberikan landasan moral sehingga sila 2 (kemanusiaan) memiliki pijakan nilai ketuhanan."
+ },
+ {
+  "id": "P-22",
+  "chapter": 1,
+  "group": 1,
+  "prompt": "Hubungan sila 3 dan sila 4 adalah…",
+  "options": [
+   {
+    "id": "P-22-A",
+    "text": "sila 4 menjaga sila 3 agar persatuan terjaga lewat musyawarah"
+   },
+   {
+    "id": "P-22-B",
+    "text": "sila 3 menghapus sila 4"
+   },
+   {
+    "id": "P-22-C",
+    "text": "sila 4 bertentangan sila 3"
+   },
+   {
+    "id": "P-22-D",
+    "text": "Tidak berkaitan"
+   }
+  ],
+  "correct": "P-22-A",
+  "explanation": "Musyawarah (sila 4) merupakan sarana menjaga persatuan (sila 3) agar tetap utuh."
+ },
+ {
+  "id": "P-23",
+  "chapter": 4,
+  "group": 4,
+  "prompt": "Sidang Umum MPR 1999 sebagai kesepakatan dasar perubahan UUD 1945 berlangsung tanggal…",
+  "options": [
+   {
+    "id": "P-23-A",
+    "text": "14—21 Oktober 1999"
+   },
+   {
+    "id": "P-23-B",
+    "text": "7—18 Agustus 2000"
+   },
+   {
+    "id": "P-23-C",
+    "text": "1—9 November 2001"
+   },
+   {
+    "id": "P-23-D",
+    "text": "1—11 Agustus 2002"
+   }
+  ],
+  "correct": "P-23-A",
+  "explanation": "Kesepakatan dasar: Sidang Umum MPR 1999 (14—21 Okt 1999), Sidang Tahunan MPR 2000 (7—18 Agu 2000), 2001 (1—9 Nov 2001), dan 2002 (1—11 Agu 2002)."
+ },
+ {
+  "id": "P-24",
+  "chapter": 3,
+  "group": 3,
+  "prompt": "Yang tetap tidak berubah dalam ideologi terbuka Pancasila adalah…",
+  "options": [
+   {
+    "id": "P-24-A",
+    "text": "Nilai dasar lima sila"
+   },
+   {
+    "id": "P-24-B",
+    "text": "Semua penjabaran"
+   },
+   {
+    "id": "P-24-C",
+    "text": "Formulasi sila"
+   },
+   {
+    "id": "P-24-D",
+    "text": "Sistem pemerintahan"
+   }
+  ],
+  "correct": "P-24-A",
+  "explanation": "Dalam ideologi terbuka, nilai dasar tetap, yang berkembang adalah penjabarannya."
+ },
+ {
+  "id": "P-25",
+  "chapter": 5,
+  "group": 5,
+  "prompt": "Konstitusi RIS berlaku pada rentang tanggal…",
+  "options": [
+   {
+    "id": "P-25-A",
+    "text": "27 Desember 1949 — 17 Agustus 1950"
+   },
+   {
+    "id": "P-25-B",
+    "text": "18 Agustus 1945 — 27 Desember 1949"
+   },
+   {
+    "id": "P-25-C",
+    "text": "17 Agustus 1950 — 5 Juli 1959"
+   },
+   {
+    "id": "P-25-D",
+    "text": "5 Juli 1959 — 19 Oktober 1999"
+   }
+  ],
+  "correct": "P-25-A",
+  "explanation": "Konstitusi RIS (Republik Indonesia Serikat) berlaku 27 Desember 1949—17 Agustus 1950, menggantikan UUD 1945 dan digantikan UUDS 1950."
+ },
+ {
+  "id": "P-26",
+  "chapter": 4,
+  "group": 4,
+  "prompt": "Sebelum perubahan, MPR berkedudukan sebagai lembaga tertinggi negara; sesudah perubahan MPR menjadi…",
+  "options": [
+   {
+    "id": "P-26-A",
+    "text": "Lembaga negara yang terdiri atas anggota DPR dan DPD hasil pemilu"
+   },
+   {
+    "id": "P-26-B",
+    "text": "Lembaga pemegang kedaulatan rakyat sepenuhnya"
+   },
+   {
+    "id": "P-26-C",
+    "text": "Lembaga yang menetapkan GBHN"
+   },
+   {
+    "id": "P-26-D",
+    "text": "Lembaga yang memilih presiden tanpa pilpres"
+   }
+  ],
+  "correct": "P-26-A",
+  "explanation": "Sesudah perubahan: MPR adalah lembaga permusyawaratan rakyat yang berkedudukan sebagai lembaga negara; anggotanya terdiri atas anggota DPR dan DPD yang dipilih melalui pemilu."
+ },
+ {
+  "id": "P-27",
+  "chapter": 1,
+  "group": 1,
+  "prompt": "sila 5 sebagai tujuan berhubungan dengan sila sebelumnya, yaitu…",
+  "options": [
+   {
+    "id": "P-27-A",
+    "text": "sila 1—4 sebagai alat mencapai keadilan"
+   },
+   {
+    "id": "P-27-B",
+    "text": "sila 5 menghapus sila lain"
+   },
+   {
+    "id": "P-27-C",
+    "text": "sila 5 berdiri sendiri"
+   },
+   {
+    "id": "P-27-D",
+    "text": "sila 5 tidak perlu sila lain"
+   }
+  ],
+  "correct": "P-27-A",
+  "explanation": "sila 5 adalah tujuan; empat sila lain adalah sarana dan prasyarat mencapai keadilan sosial."
+ },
+ {
+  "id": "P-28",
+  "chapter": 5,
+  "group": 5,
+  "prompt": "Periode UUDS 1950 berakhir pada tanggal…",
+  "options": [
+   {
+    "id": "P-28-A",
+    "text": "5 Juli 1959"
+   },
+   {
+    "id": "P-28-B",
+    "text": "27 Desember 1949"
+   },
+   {
+    "id": "P-28-C",
+    "text": "17 Agustus 1950"
+   },
+   {
+    "id": "P-28-D",
+    "text": "19 Oktober 1999"
+   }
+  ],
+  "correct": "P-28-A",
+  "explanation": "UUDS 1950 berlaku 17 Agustus 1950—5 Juli 1959; setelah itu UUD 1945 berlaku kembali 5 Juli 1959—19 Oktober 1999."
+ },
+ {
+  "id": "P-29",
+  "chapter": 3,
+  "group": 3,
+  "prompt": "Pancasila sebagai ideologi negara mengamanatkan…",
+  "options": [
+   {
+    "id": "P-29-A",
+    "text": "Negara berdasar Pancasila dan UUD 1945"
+   },
+   {
+    "id": "P-29-B",
+    "text": "Negara bebas nilai"
+   },
+   {
+    "id": "P-29-C",
+    "text": "Negara berdasar agama tertentu"
+   },
+   {
+    "id": "P-29-D",
+    "text": "Negara federal tanpa dasar"
+   }
+  ],
+  "correct": "P-29-A",
+  "explanation": "Indonesia adalah negara hukum yang berdasar pada Pancasila dan UUD 1945."
+ },
+ {
+  "id": "P-30",
+  "chapter": 5,
+  "group": 5,
+  "prompt": "Amandemen I UUD 1945 berlangsung 19 Oktober 1999 sampai…",
+  "options": [
+   {
+    "id": "P-30-A",
+    "text": "18 Agustus 2000"
+   },
+   {
+    "id": "P-30-B",
+    "text": "9 November 2001"
+   },
+   {
+    "id": "P-30-C",
+    "text": "10 Agustus 2002"
+   },
+   {
+    "id": "P-30-D",
+    "text": "27 Desember 1949"
+   }
+  ],
+  "correct": "P-30-A",
+  "explanation": "Rentang amandemen: I 19 Okt 1999—18 Agu 2000; II 18 Agu 2000—9 Nov 2001; III 9 Nov 2001—10 Agu 2002; IV 10 Agu 2002—sekarang."
+ },
+ {
+  "id": "P-31",
+  "chapter": 6,
+  "group": 6,
+  "prompt": "TAP MPR No. I/MPR/2003 mengelompokkan 139 TAP MPRS/MPR tahun 1960—2002 ke dalam…",
+  "options": [
+   {
+    "id": "P-31-A",
+    "text": "6 pasal berdasarkan materi dan status hukumnya"
+   },
+   {
+    "id": "P-31-B",
+    "text": "4 pasal berdasarkan tahun terbit"
+   },
+   {
+    "id": "P-31-C",
+    "text": "5 pasal berdasarkan lembaga penerbit"
+   },
+   {
+    "id": "P-31-D",
+    "text": "8 pasal berdasarkan nomor TAP"
+   }
+  ],
+  "correct": "P-31-A",
+  "explanation": "TAP MPR I/2003 mengelompokkan 139 TAP menjadi 6 pasal: 8 dicabut; 3 tetap berlaku dengan ketentuan; 8 sampai Pemilu 2004; 11 sampai terbentuk UU; 5 sampai tatib baru; 104 tidak perlu tindakan hukum lanjut."
+ },
+ {
+  "id": "P-32",
+  "chapter": 5,
+  "group": 5,
+  "prompt": "Periode kelima konstitusi Indonesia (10 Agustus 2002—sekarang) adalah…",
+  "options": [
+   {
+    "id": "P-32-A",
+    "text": "UUD 1945 hasil amandemen I, II, III, dan IV"
+   },
+   {
+    "id": "P-32-B",
+    "text": "Konstitusi RIS"
+   },
+   {
+    "id": "P-32-C",
+    "text": "UUDS 1950"
+   },
+   {
+    "id": "P-32-D",
+    "text": "UUD 1945 tanpa amandemen"
+   }
+  ],
+  "correct": "P-32-A",
+  "explanation": "Periode kelima: UUD 1945 hasil amandemen I, II, III, dan IV yang berlaku 10 Agustus 2002—sekarang."
+ },
+ {
+  "id": "P-33",
+  "chapter": 2,
+  "group": 2,
+  "prompt": "Penerapan Pancasila di sekolah melalui…",
+  "options": [
+   {
+    "id": "P-33-A",
+    "text": "Upacara bendera, pelajaran, dan budaya sekolah"
+   },
+   {
+    "id": "P-33-B",
+    "text": "Hanya lewat ujian"
+   },
+   {
+    "id": "P-33-C",
+    "text": "Hanya lewat hukuman"
+   },
+   {
+    "id": "P-33-D",
+    "text": "Tidak perlu"
+   }
+  ],
+  "correct": "P-33-A",
+  "explanation": "Penerapan di sekolah meliputi upacara, pelajaran, dan pembentukan budaya sekolah yang ber-Pancasila."
+ },
+ {
+  "id": "P-34",
+  "chapter": 3,
+  "group": 3,
+  "prompt": "Keterbukaan Pancasila membuat ideologi ini…",
+  "options": [
+   {
+    "id": "P-34-A",
+    "text": "Tetap relevan mengikuti perkembangan zaman"
+   },
+   {
+    "id": "P-34-B",
+    "text": "Cepat usang"
+   },
+   {
+    "id": "P-34-C",
+    "text": "Tergantikan mudah"
+   },
+   {
+    "id": "P-34-D",
+    "text": "Kaku total"
+   }
+  ],
+  "correct": "P-34-A",
+  "explanation": "Karena ideologi terbuka, Pancasila tetap relevan di setiap zaman tanpa mengubah substansi."
+ },
+ {
+  "id": "P-35",
+  "chapter": 3,
+  "group": 3,
+  "prompt": "Dimensi sosiologis Pancasila terlihat pada…",
+  "options": [
+   {
+    "id": "P-35-A",
+    "text": "Pancasila sebagai budaya hidup masyarakat"
+   },
+   {
+    "id": "P-35-B",
+    "text": "Pancasila hanya teori"
+   },
+   {
+    "id": "P-35-C",
+    "text": "Pancasila hanya di parlemen"
+   },
+   {
+    "id": "P-35-D",
+    "text": "Pancasila hanya di slogan"
+   }
+  ],
+  "correct": "P-35-A",
+  "explanation": "Dimensi sosiologis: Pancasila menjadi budaya dan pola hidup masyarakat sehari-hari."
+ },
+ {
+  "id": "P-36",
+  "chapter": 5,
+  "group": 5,
+  "prompt": "Tugas pada materi periodisasi konstitusi adalah…",
+  "options": [
+   {
+    "id": "P-36-A",
+    "text": "mencari pasal-pasal yang telah diamandemen dari amandemen pertama sampai keempat"
+   },
+   {
+    "id": "P-36-B",
+    "text": "menghafal seluruh pasal UUD 1945"
+   },
+   {
+    "id": "P-36-C",
+    "text": "membuat rumusan amandemen baru"
+   },
+   {
+    "id": "P-36-D",
+    "text": "menyalin naskah Dekrit 1959"
+   }
+  ],
+  "correct": "P-36-A",
+  "explanation": "Tugas periodisasi: carilah pasal-pasal yang telah diamandemen, dari amandemen pertama sampai keempat."
+ },
+ {
+  "id": "P-37",
+  "chapter": 4,
+  "group": 4,
+  "prompt": "Cara perubahan UUD 1945 menurut bahan tayangan dilakukan dengan tidak mengubah Pembukaan, tetap NKRI, dan…",
+  "options": [
+   {
+    "id": "P-37-A",
+    "text": "adendum"
+   },
+   {
+    "id": "P-37-B",
+    "text": "referendum"
+   },
+   {
+    "id": "P-37-C",
+    "text": "dekrit"
+   },
+   {
+    "id": "P-37-D",
+    "text": "revisi total"
+   }
+  ],
+  "correct": "P-37-A",
+  "explanation": "Prinsip perubahan: tidak mengubah Pembukaan UUD 1945; tetap mempertahankan NKRI; mempertegas sistem presidensiil; penjelasan normatif dimasukkan ke pasal; perubahan dilakukan dengan cara adendum."
+ },
+ {
+  "id": "P-38",
+  "chapter": 2,
+  "group": 2,
+  "prompt": "Kebijakan publik yang sesuai Pancasila adalah…",
+  "options": [
+   {
+    "id": "P-38-A",
+    "text": "Kebijakan yang adil, tidak diskriminatif, dan mendukung persatuan"
+   },
+   {
+    "id": "P-38-B",
+    "text": "Kebijakan yang hanya menguntungkan kelompok"
+   },
+   {
+    "id": "P-38-C",
+    "text": "Kebijakan sewenang-wenang"
+   },
+   {
+    "id": "P-38-D",
+    "text": "Kebijakan tanpa pertimbangan"
+   }
+  ],
+  "correct": "P-38-A",
+  "explanation": "Kebijakan publik sesuai Pancasila: adil, merata, dan menjaga persatuan seluruh rakyat."
+ },
+ {
+  "id": "P-39",
+  "chapter": 2,
+  "group": 2,
+  "prompt": "Persoalan sosial seperti kemiskinan disikapi dengan…",
+  "options": [
+   {
+    "id": "P-39-A",
+    "text": "Kebijakan berlandaskan keadilan sosial dan musyawarah"
+   },
+   {
+    "id": "P-39-B",
+    "text": "Mengabaikan"
+   },
+   {
+    "id": "P-39-C",
+    "text": "Melaiskan"
+   },
+   {
+    "id": "P-39-D",
+    "text": "Mendelegasikan"
+   }
+  ],
+  "correct": "P-39-A",
+  "explanation": "Persoalan sosial dijawab dengan kebijakan publik yang berpihak pada keadilan sosial (sila 5)."
+ },
+ {
+  "id": "P-40",
+  "chapter": 6,
+  "group": 6,
+  "prompt": "Jumlah TAP yang dinyatakan tidak perlu tindakan hukum lebih lanjut (final/einmalig) dalam TAP MPR No. I/MPR/2003 adalah…",
+  "options": [
+   {
+    "id": "P-40-A",
+    "text": "104 ketetapan"
+   },
+   {
+    "id": "P-40-B",
+    "text": "8 ketetapan"
+   },
+   {
+    "id": "P-40-C",
+    "text": "11 ketetapan"
+   },
+   {
+    "id": "P-40-D",
+    "text": "5 ketetapan"
+   }
+  ],
+  "correct": "P-40-A",
+  "explanation": "Pasal 6 TAP MPR I/2003: 104 TAP tidak perlu tindakan hukum lebih lanjut karena bersifat final (einmalig), telah dicabut, atau telah selesai dilaksanakan."
+ }
+]
